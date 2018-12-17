@@ -19,3 +19,5 @@ loadPackagebyid: No hpack entry found for tree TreeKey' {unTreeKey = SqlBackendK
 CallStack (from HasCallStack):
   error, called at src/Pantry/Storage.hs:605:24 in pantry-0.1.0.0-HVE7vyFbp3nCeuN5wq1AO3:Pantry.Storage
 ```
+
+Note that the above build is run with an already existing pantry database..
